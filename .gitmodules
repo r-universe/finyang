@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "lazybar"]
+	path = lazybar
+	url = https://github.com/finyang/lazybar
+	shallow = true
+	registered = true
+[submodule "RRRR"]
+	path = RRRR
+	url = https://github.com/finyang/rrrr
+	shallow = true
+	registered = true
