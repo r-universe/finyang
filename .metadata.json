@@ -1,10 +1,10 @@
 [
   {
-    "package": "lazybar",
+    "package": "RRRR",
     "oncran": true
   },
   {
-    "package": "RRRR",
+    "package": "lazybar",
     "oncran": true
   }
 ]
