@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "lazybar"]
-	path = lazybar
-	url = https://github.com/finyang/lazybar
 [submodule "RRRR"]
 	path = RRRR
 	url = https://github.com/finyang/rrrr
+[submodule "lazybar"]
+	path = lazybar
+	url = https://github.com/finyang/lazybar
