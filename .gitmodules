@@ -5,6 +5,9 @@
 [submodule "RRRR"]
 	path = RRRR
 	url = https://github.com/finyang/rrrr
+[submodule "flap"]
+	path = flap
+	url = https://github.com/finyang/flap
 [submodule "lazybar"]
 	path = lazybar
 	url = https://github.com/finyang/lazybar
