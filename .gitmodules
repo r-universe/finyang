@@ -11,3 +11,6 @@
 [submodule "lazybar"]
 	path = lazybar
 	url = https://github.com/finyang/lazybar
+[submodule "roam"]
+	path = roam
+	url = https://github.com/finyang/roam
